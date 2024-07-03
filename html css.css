@@ -1,0 +1,158 @@
+
+
+
+container{
+		background-image: url(9452632644602.jpg);
+		height: 100vh;
+		background-repeat: no-repeat;
+		width: 100%;
+		background-size: cover;
+		background-position: center;
+	}
+	*{
+		margin: 0;
+		padding: 0;
+	}
+
+}
+
+
+.image-container {
+
+  position: relative;
+}
+
+
+.image-text {
+  position: absolute;
+  top: 32%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 85px;
+  font-family: NewYork;
+  text-align: center;
+}
+
+.image-text2 {
+  position: absolute;
+  top: 44%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 85px;
+  font-family: NewYork;
+  text-align: center;
+}
+
+.image-text3 {
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 20px;
+  font-family: adelia;
+  text-align: center;
+}
+
+.menu {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 25px;
+  font-family: adelia;
+  text-align: center;
+}
+
+
+
+.section1 {
+	background-color: #8C7561;
+
+
+p {
+	font-family: Caviar Dreams;
+	font-size: 30px;
+	color: white;
+	margin: 15px;
+}
+
+ul {
+	color: white;
+	margin: 17px;
+}
+
+.section {
+	background-color: white;
+}
+
+
+}
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+#mv8 {
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#itinéraire de tout le roadtrip {
+	width: 50%;
+	height: auto;
+}
+
+footer {
+	background-color: #FF5733 ;
+	h2 {
+	font-family: josephsophia;
+	font-size: 65px;
+	img {
+		width: 20px;
+		height: auto;
+	}
+}
+}
+
+h1 {
+	font-family: josephsophia;
+	font-size: 20px;
+	color: black;
+}
+
+
+h6 {
+	font-family: arial;
+}
+
+a {
+	color: white;
+	font-family: Caviar Dreams;
+	text-decoration: none;
+	
+	font-size: 25px;
+
+}
+
+.conteneur img {
+    float: right; 
+    margin-right: 10px; 
+}
+
+h2 {
+	font-family: josephsophia;
+	font-size: 80px;
+	color: white;
+	margin: 15px;
+}

@@ -1,0 +1,190 @@
+
+
+
+container{
+		height: 100vh;
+		background-repeat: no-repeat;
+		width: 100%;
+		background-size: cover;
+		background-position: center;
+	}
+	*{
+		margin: 0;
+		padding: 0;
+	}
+
+}
+
+
+.image-container {
+
+  position: relative;
+}
+
+
+.image-text {
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 85px;
+  font-family: NewYork;
+  text-align: center;
+}
+
+.image-text2 {
+  position: absolute;
+  top: 59%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 85px;
+  font-family: NewYork;
+  text-align: center;
+}
+
+.image-text3 {
+  position: absolute;
+  top: 72%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 20px;
+  font-family: adelia;
+  text-align: center;
+}
+
+.menu {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: white;
+  font-size: 25px;
+  font-family: adelia;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+.section1 {
+	background-color: #0388A6;
+}
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+a {
+	color: white;
+	font-family: Caviar Dreams;
+	text-decoration: none;
+	padding: 10px 0px;
+	font-size: 25px;
+
+}
+
+.conteneur img {
+    float: right; 
+    margin-right: 10px; 
+}
+
+h2 {
+	font-family: josephsophia;
+	font-size: 65px;
+	color: white;
+	margin: 15px;
+
+}
+
+p {
+	font-family: Caviar Dreams;
+	font-size: 25px;
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+ul {
+	font-family: Caviar Dreams;
+	font-size: 25px;
+	color: white;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+.container {
+    display: flex;
+    align-items: center; 
+    flex-direction: row-reverse;
+}
+
+.container img {
+    width: 888px; 
+    height: auto; 
+}
+
+
+
+
+
+.container2 {
+    display: flex;
+    align-items: center; 
+    flex-direction: row-reverse;
+}
+.container2 img {
+    width: 1013px; 
+    height: auto; 
+}
+
+
+
+
+
+
+.container3 {
+    display: flex;
+    align-items: center; 
+    flex-direction: row-reverse;
+}
+.container3 img {
+    width: 850px; 
+    height: auto; 
+}
+
+
+
+
+
+
+.container4 {
+    display: flex;
+    align-items: center; 
+    flex-direction: row-reverse;
+}
+
+.container4 img {
+    width: 850px; 
+    height: auto; 
+}
+
